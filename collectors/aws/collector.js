@@ -288,6 +288,10 @@ var calls = {
             property: 'Roles',
             paginate: 'Marker'
         },
+        listPolicies: {
+            property: 'Policies',
+            paginate: 'Marker'
+        },
         getAccountPasswordPolicy: {
             property: 'PasswordPolicy'
         },
